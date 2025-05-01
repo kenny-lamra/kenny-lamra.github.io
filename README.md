@@ -4,7 +4,7 @@
 This is a responsive portfolio website project built using **HTML**, **CSS**, and **JavaScript**. It serves as a template to showcase skills, featured projects, and developer experience. The design is fully responsive, ensuring a smooth and consistent user experience across all device sizes.
 
 ## 🔗 Live Demo
-[👉 Visit Portfolio](https://kenny-lamra.github.io/index.html)  <!-- Replace '#' with your portfolio URL -->
+[👉 Visit Portfolio](https://kenny-lamra.github.io)  <!-- Replace '#' with your portfolio URL -->
 
 ## 🛠️ Tech Stack
 - **HTML5** – Semantic structure
